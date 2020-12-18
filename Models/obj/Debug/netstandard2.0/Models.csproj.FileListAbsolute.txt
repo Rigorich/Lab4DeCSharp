@@ -1,0 +1,9 @@
+C:\BSUIR\C#\Lab4DeCSharp\Models\bin\Debug\netstandard2.0\Models.deps.json
+C:\BSUIR\C#\Lab4DeCSharp\Models\bin\Debug\netstandard2.0\Models.dll
+C:\BSUIR\C#\Lab4DeCSharp\Models\bin\Debug\netstandard2.0\Models.pdb
+C:\BSUIR\C#\Lab4DeCSharp\Models\obj\Debug\netstandard2.0\Models.csprojAssemblyReference.cache
+C:\BSUIR\C#\Lab4DeCSharp\Models\obj\Debug\netstandard2.0\Models.AssemblyInfoInputs.cache
+C:\BSUIR\C#\Lab4DeCSharp\Models\obj\Debug\netstandard2.0\Models.AssemblyInfo.cs
+C:\BSUIR\C#\Lab4DeCSharp\Models\obj\Debug\netstandard2.0\Models.csproj.CoreCompileInputs.cache
+C:\BSUIR\C#\Lab4DeCSharp\Models\obj\Debug\netstandard2.0\Models.dll
+C:\BSUIR\C#\Lab4DeCSharp\Models\obj\Debug\netstandard2.0\Models.pdb

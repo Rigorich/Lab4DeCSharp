@@ -1,0 +1,9 @@
+C:\BSUIR\C#\Lab4DeCSharp\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\BSUIR\C#\Lab4DeCSharp\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.AssemblyInfo.cs
+C:\BSUIR\C#\Lab4DeCSharp\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\BSUIR\C#\Lab4DeCSharp\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.deps.json
+C:\BSUIR\C#\Lab4DeCSharp\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.dll
+C:\BSUIR\C#\Lab4DeCSharp\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.pdb
+C:\BSUIR\C#\Lab4DeCSharp\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.csprojAssemblyReference.cache
+C:\BSUIR\C#\Lab4DeCSharp\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.dll
+C:\BSUIR\C#\Lab4DeCSharp\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.pdb

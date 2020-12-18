@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab4DeCSharp", "Lab4DeCSharp.csproj", "{801D37A9-6B06-4BA7-8ED3-3C488052F96E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{801D37A9-6B06-4BA7-8ED3-3C488052F96E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{801D37A9-6B06-4BA7-8ED3-3C488052F96E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{801D37A9-6B06-4BA7-8ED3-3C488052F96E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{801D37A9-6B06-4BA7-8ED3-3C488052F96E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B917F0AA-5965-4304-AF1F-176DDB90B959}
+	EndGlobalSection
+EndGlobal

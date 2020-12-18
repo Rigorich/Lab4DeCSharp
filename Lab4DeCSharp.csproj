@@ -1,0 +1,36 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="DataAccessLayer\**" />
+    <Compile Remove="Models\**" />
+    <Compile Remove="ServiceLayer\**" />
+    <EmbeddedResource Remove="DataAccessLayer\**" />
+    <EmbeddedResource Remove="Models\**" />
+    <EmbeddedResource Remove="ServiceLayer\**" />
+    <None Remove="DataAccessLayer\**" />
+    <None Remove="Models\**" />
+    <None Remove="ServiceLayer\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="DataAccessLayer">
+      <HintPath>DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.dll</HintPath>
+    </Reference>
+    <Reference Include="Models">
+      <HintPath>Models\bin\Debug\netstandard2.0\Models.dll</HintPath>
+    </Reference>
+    <Reference Include="ServiceLayer">
+      <HintPath>ServiceLayer\bin\Debug\netstandard2.0\ServiceLayer.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

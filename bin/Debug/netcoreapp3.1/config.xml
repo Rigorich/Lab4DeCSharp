@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<AllOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ConnectionOptions>
+    <Server>DESKTOP-5BPITN8\SQLEXPRESS</Server>
+    <Database>AdventureWorks2017</Database>
+    <IntegratedSecurity>true</IntegratedSecurity>
+  </ConnectionOptions>
+  <SendingOptions>
+    <Directory>C:\BSUIR\C#\Lab4DeCSharp\SourceDirectory</Directory>
+  </SendingOptions>
+  <MonitorOptions>
+    <CopyInterval>10</CopyInterval>
+  </MonitorOptions>
+</AllOptions>
